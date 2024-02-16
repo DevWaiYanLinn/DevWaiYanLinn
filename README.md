@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @DevWaiYanLinn
+# Hi there! 👋 I'm DevWaiYanLinn
+
+Welcome to my GitHub profile! I'm passionate about programming and currently diving into the world of NodeJS. Feel free to explore my repositories and check out what I'm working on.
+
+## About Me
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me: [Your preferred contact method or leave it blank if you prefer privacy]
+
+## Repositories
+Here are some of the notable repositories you might find interesting:
+
+1. [Repository Name](link-to-repo): Short description.
+2. [Repository Name](link-to-repo): Short description.
+
+<!-- Feel free to add more repositories and descriptions as needed -->
+
+## Get in Touch
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Twitter: [Your Twitter Profile](link-to-twitter)
+
+<!-- Feel free to add more ways to reach you -->
 
 <!---
 DevWaiYanLinn/DevWaiYanLinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
