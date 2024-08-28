@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm passionate about programming and currently div
 ## Repositories
 Here are some of the notable repositories you might find interesting:
 
-1. [Repository Name](link-to-repo): Short description.
-2. [Repository Name](link-to-repo): Short description.
+1. [Emotion Detector with Flutter](https://github.com/DevWaiYanLinn/emo-bot-flutter-version)
+2. [The Next lvl Tic Tac Toe with react](https://github.com/DevWaiYanLinn/tic-tac-toe)
 
 <!-- Feel free to add more repositories and descriptions as needed -->
 
