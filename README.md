@@ -14,6 +14,10 @@ Here are some of the notable repositories you might find interesting:
 1. [Emotion Detector with Flutter](https://github.com/DevWaiYanLinn/emo-bot-flutter-version)
 2. [The Next lvl Tic Tac Toe with react](https://github.com/DevWaiYanLinn/tic-tac-toe)
 
+## 🛠️ My Favorite Tools
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWaiYanLinn&layout=compact)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevWaiYanLinn&count_private=true&show_icons=true&hide_title=true)
+
 <!-- Feel free to add more repositories and descriptions as needed -->
 
 ## Get in Touch
