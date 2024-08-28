@@ -21,8 +21,7 @@ Here are some of the notable repositories you might find interesting:
 <!-- Feel free to add more repositories and descriptions as needed -->
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Twitter: [Your Twitter Profile](link-to-twitter)
+- LinkedIn: [Wai Yan Lin](https://www.linkedin.com/in/wai-yan-lin-809998260/)
 
 <!-- Feel free to add more ways to reach you -->
 
