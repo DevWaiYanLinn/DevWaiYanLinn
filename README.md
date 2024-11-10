@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm DevWaiYanLinn
+# Hi there! 👋 I'm Wai Yan Lin
 
 Welcome to my GitHub profile! I'm passionate about programming and currently diving into the world of NodeJS. Feel free to explore my repositories and check out what I'm working on.
 
