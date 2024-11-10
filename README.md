@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about programming and currently div
 Here are some of the notable repositories you might find interesting:
 
 1. [Emotion Detector with Flutter](https://github.com/DevWaiYanLinn/emo-bot-flutter-version)
-2. [The Next lvl Tic Tac Toe with react](https://github.com/DevWaiYanLinn/tic-tac-toe)
+2. [Clover Auction](https://github.com/DevWaiYanLinn/clover-auction)
 
 ## 🛠️ My Favorite Tools
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWaiYanLinn&layout=compact)
