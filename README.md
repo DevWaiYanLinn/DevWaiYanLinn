@@ -20,6 +20,9 @@ Here are some of the notable repositories you might find interesting:
 
 <!-- Feel free to add more repositories and descriptions as needed -->
 
+## Code War
+![Codewars](https://github.r2v.ch/codewars?user=DevWaiYanLinn&top_languages=true)
+
 ## Get in Touch
 - LinkedIn: [Wai Yan Lin](https://www.linkedin.com/in/wai-yan-lin-809998260/)
 
